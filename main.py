@@ -5,8 +5,8 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Dropout, Flatten, Dense
 
 # Set paths
-train_dir = r'C:\Users\Neha Reddy\Downloads\archive\train'
-test_dir = r'C:\Users\Neha Reddy\Downloads\archive\test'
+train_dir = 'train'
+test_dir = 'test'
 
 # Parameters
 img_size = (48, 48)
