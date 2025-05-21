@@ -26,17 +26,6 @@ OpenCV 4.x
 NumPy, Pandas, Matplotlib, Seaborn
 TkInter (for the GUI)
 
-Setup
-
-Clone this repository:
-
-bashgit clone https://github.com/yourusername/facial-expression-recognition.git
-cd facial-expression-recognition
-
-Install the required packages:
-
-bashpip install -r requirements.txt
-
 Download the dataset and train a model (see the Complete Guide), or download a pre-trained model.
 
 Quick Start
